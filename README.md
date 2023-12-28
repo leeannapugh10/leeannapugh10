@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leeannapugh10" alt="leeannapugh10" /></a> </p>
 
-- 🌱 I’m currently learning **software engineering and reproductable research**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 📫 How to reach me **leeannapugh10@gmail.com**
 
